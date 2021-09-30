@@ -20,7 +20,7 @@ h1, h2{
 
 header h1{
     color: white;
-    font-size: 30px;
+    font-size: 28px;
 }
 
 header img{
@@ -52,7 +52,7 @@ h2{
 }
 
 a{
-    color: #e71f2d;
+    color: #e70c19;
 }
 a:hover{
     color: white;
